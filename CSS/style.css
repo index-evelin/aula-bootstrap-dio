@@ -1,0 +1,60 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar{
+    background-color:	#D8BFD8;
+}
+
+.img_sebastian{
+    width: 80px;
+    height: 80px;
+    margin: 10px 0 0 20px;
+}
+
+.quem-somos{
+    background-color: #8258FA;
+    color: #CECEF6;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+.texto-quemsomos{
+    padding-top: 20px;
+}
+
+.parceiros{
+    background-color: #D8BFD8;
+    color: #8258FA;
+}
+
+.servicos{
+    background-color: #8258FA;
+    color: #CECEF6;
+}
+
+.img-parceiros{
+    padding-top: 20px;
+    color: #4C0B5F;
+}
+
+.img-servicos{
+    padding-top: 20px;
+    color: #CECEF6;
+}
+
+.container{
+    padding-top: 40px;
+}
+
+.bg-footer{
+    padding-top: 20px;
+    padding-bottom: 2px;
+    background-color: #4C0B5F;
+    color: #CECEF6;
+}
